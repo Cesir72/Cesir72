@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cesir72
   
-- 👀 I’m interested in technology because it constantly evolves and shapes our world. Also, I’m interested inMachine Learning (ML), Big Data, Red, Back/frontend development and Artificial Intelligence (AI)
+- 👀 I’m interested in technology because it constantly evolves and shapes our world. Also, I’m interested inMachine Learning (ML), Big Data, computer networks, Back/frontend development and Artificial Intelligence (AI)
 
 - 🌱 I’m currently learning PYTHON, REACT , PHP,  HTML5, CSS3, JAVASCRIPT, BOOTSTRAP, LINUX, WORDPRESS, BIG DATA, POWER BI.
 
