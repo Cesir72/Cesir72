@@ -8,13 +8,14 @@
 
 -  🤝 I’m looking for help with Development front-end proyects & Manual Testing
 
--  📫 How to reach me linkedin profile
+-  📫 How to reach me e-mail:chechare71@gmail.com 
    
 - 😄 Pronouns: Chechare
   
 - ⚡ Fun fact: Do you know how I started in the field of informatics in general? Well, let me tell you. It all began with an in-person course in 2015 focused on Siemens automata. The course specifically covered the development of products related to industrial automation systems
 
-- 💥Connect with me: César Sánchez Martín https://linkedin.com/in/césarsánchezmartín
+- 💥How to reach me linkedin profile:
+-  César Sánchez Martín https://linkedin.com/in/césarsánchezmartín
   
 💬 Ask me about Anything
 
