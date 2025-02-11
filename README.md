@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cesir72
+- 👋 Hi, I’m @Cesir72, César Sánchez Martín 
   
 - 👀 I’m interested in technology because it constantly evolves and shapes our world. Also, I’m interested inMachine Learning (ML), Big Data, computer networks, Back/frontend development and Artificial Intelligence (AI)
 
@@ -14,8 +14,8 @@
   
 - ⚡ Fun fact: Do you know how I started in the field of informatics in general? Well, let me tell you. It all began with an in-person course in 2015 focused on Siemens automata. The course specifically covered the development of products related to industrial automation systems
 
-- 💥How to reach me linkedin profile:
--  César Sánchez Martín https://linkedin.com/in/césarsánchezmartín
+- 💥How to reach me linkedin profile: https://linkedin.com/in/césarsánchezmartín
+  
   
 💬 Ask me about Anything
 
