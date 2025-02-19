@@ -12,7 +12,7 @@
    
 - 😄 Pronouns: Chechare
   
-- ⚡ Fun fact: Do you know how I started in the field of informatics in general? Well, let me tell you. It all began with an in-person course in 2015 focused on Siemens automata. The course specifically covered the development of products related to industrial automation systems
+- ⚡ Fun fact: Do you know how I started in the field of IT in general? Well, let me tell you. It all began with an in-person course in 2015 focused on Siemens automata. The course specifically covered the development of products related to industrial automation systems
 
 - 💥How to reach me linkedin profile: https://linkedin.com/in/césarsánchezmartín
   
