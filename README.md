@@ -15,6 +15,8 @@
 - ⚡ Fun fact: Do you know how I started in the field of IT in general? Well, let me tell you. It all began with an in-person course in 2015 focused on Siemens automata. The course specifically covered the development of products related to industrial automation systems
 
 - 💥How to reach me linkedin profile: https://linkedin.com/in/césarsánchezmartín
+- Goals
+My immediate goal is to continue growing as a full-stack developer by working on challenging projects that make a difference. I am eager to collaborate with like-minded professionals and contribute to innovative solutions that drive success. Long-term, I aspire to take on leadership roles where I can mentor junior developers and lead projects that push the boundaries of technology.
 # Bienvenido
 
 Si deseas unirte a nuestro servicio, por favor utiliza el siguiente enlace:
