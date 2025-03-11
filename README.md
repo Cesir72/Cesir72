@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
 	<br>
-	<img src="" width="1400" height="50">
+	<img src="https://github.com/Cesir72/Cesir72/blob/main/Cesar_github_contact_with_me.gif" width="1400" height="50">
 	<br>
 </div>
 - 📫 How to reach me e-mail:chechare71@gmail.com 
