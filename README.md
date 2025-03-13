@@ -2,7 +2,7 @@
   
 - 👀 I’m interested in technology because it constantly evolves and shapes our world. Also, I’m interested inMachine Learning (ML), Big Data, computer networks, Back/frontend development and Artificial Intelligence (AI)
 
-- 🎯 Goals
+- 🎯
 My immediate goal is to continue growing as a full-stack developer by working on challenging projects that make a difference. I am eager to collaborate with like-minded professionals and contribute to innovative solutions that drive success. Long-term, I aspire to take on leadership roles where I can mentor junior developers and lead projects that push the boundaries of technology.
 
 - 🌱 I’m currently learning PYTHON, REACT , PHP,  HTML5, CSS3, JAVASCRIPT, BOOTSTRAP, LINUX, WORDPRESS, BIG DATA, POWER BI.
