@@ -1,4 +1,4 @@
-- ## 👋 Hi, I’m César Sánchez Martín (@Cesir72) 
+## 👋 Hi, I’m César Sánchez Martín (@Cesir72) 
 - 👀 I’m interested in technology because it constantly evolves and shapes our world. Also, I’m interested inMachine Learning (ML), Big Data, computer networks, Back/frontend development and Artificial Intelligence (AI)
 
 ### 🎯 professional goals
@@ -13,7 +13,7 @@ I am currently deepening my knowledge in various technologies and tools, includi
 * **Operating systems:** Linux, win, etc
 * **Data analysis:** Big Data, Power BI
 
-### 🔭 my career profile
+### ⭐️ my career profile
 - My current career path as a maintenance technician in a hospital provides me with a solid foundation in problem-solving and attention to detail.
 
 ### 🤝 Colaborating
