@@ -14,13 +14,11 @@ My immediate goal is to continue growing as a full-stack developer by working on
 - ⚡ Fun fact: Do you know how I started in the field of IT in general? Well, let me tell you. It all began with an in-person course in 2015 focused on Siemens automata. The course specifically covered the development of products related to industrial automation systems
 
 # Bienvenido
-
+													
 Si deseas unirte a nuestro servicio, por favor utiliza el siguiente enlace:
 
 [Haz clic aquí para registrarte](https://clientes.hostinet.com/aff.php?aff=1677)  
   
-💬 Ask me about Anything
-
 <!---
 Cesir72/Cesir72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -31,5 +29,8 @@ You can click the Preview link to take a look at your changes.
 	<img src="https://github.com/Cesir72/Cesir72/blob/main/Cesar_github_contact_with_me.gif" width="1400" height="50">
 	<br>
 </div>
-- 📫 How to reach me e-mail:chechare71@gmail.com 
-- 💥 How to reach me linkedin profile: https://linkedin.com/in/césarsánchezmartín
+📫 How to reach me e-mail:	 chechare71@gmail.com/
+
+💥 How to reach me linkedin profile: https://linkedin.com/in/césarsánchezmartín
+
+💬 Ask me about Anything
