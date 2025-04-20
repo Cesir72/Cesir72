@@ -28,14 +28,14 @@ Cesir72/Cesir72 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 📫 Contact me
 <div align="center">
 	<br>
 	<img src="https://github.com/Cesir72/Cesir72/blob/main/Cesar_github_contact_with_me.gif" width="1400" height="50">
 	<br>
 </div>
 
-### 📫 Contacto 💬 Ask me about Anything
-*   **Email:** chechare71@gmail.com
+*   **Email:** chechare71@gmail.com 
 *   **LinkedIn:** https://linkedin.com/in/césarsánchezmartín
 
 # Bienvenido
